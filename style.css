@@ -1,0 +1,7 @@
+body {
+    background-color: #fff1f1;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
